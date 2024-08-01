@@ -27,6 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
@@ -38,7 +39,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
 
 
+###
 
+
+
+###
 
 
 ###
@@ -56,17 +61,14 @@
 
 
 
-<!--
-**JaoGoncalves/JaoGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31oc6k3igm4eyxht5zmduxgumuqy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oc6k3igm4eyxht5zmduxgumuqy&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
