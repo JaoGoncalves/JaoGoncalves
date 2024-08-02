@@ -3,6 +3,7 @@
 - 🧑 Tenho 18 anos de idade
 - 🏠 Atualmente moro em Lages onde curso Ciência da Computação :)
 - 💘  A palavra que me define é persistëncia
+- ⌛ Aprendendo Java, JavaScript e HTML
 
 
 ###
