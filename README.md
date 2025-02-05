@@ -1,6 +1,6 @@
 <h2 align="left">Olá! Eu sou o João, sou apaixonado em tecnologia e tenho como grande meta ser progamador💻❤.</h2>
 
-- 🧑 Tenho 18 anos de idade
+- 🧑 Tenho 19 anos de idade
 - 🏠 Atualmente moro em Lages onde curso Ciência da Computação :)
 - 💘  A palavra que me define é persistëncia
 - ⌛ Aprendendo Java, JavaScript e HTML
