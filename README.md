@@ -5,23 +5,15 @@
 - 💘  A palavra que me define é persistëncia
 - ⌛ Aprendendo Java, mySQL e HTML
 
-###
- <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JaoGoncalves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoGoncalves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## My Stats
 
-</p>
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunograna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoGoncalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaoGoncalves&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 
 
