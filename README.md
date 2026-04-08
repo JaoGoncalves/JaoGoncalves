@@ -5,18 +5,6 @@
 - 💘  A palavra que me define é persistëncia
 - ⌛ Aprendendo Java, mySQL e HTML
 
-
-## My Stats
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaoGoncalves&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoGoncalves&layout=compact&langs_count=5&theme=cobalt&locale=en" height="150" alt="languages graph" />
-</div>
-
-
-
 ---
 
 
